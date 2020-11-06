@@ -1,0 +1,17 @@
+
+  // copy this into your c++ snippets file
+  // so you won't have to re-write all of this basic stuff at the beginning
+  "New basic project file": {
+		"prefix": "cpp",
+		"body": [
+			"#include<iostream>",
+			"using namespace std;",
+			"",
+			"int main()",
+			"{",
+			"\t$0",
+			"",
+  		"\treturn 0;",
+			"}"
+		]
+  }
